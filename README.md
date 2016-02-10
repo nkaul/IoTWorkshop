@@ -5,3 +5,6 @@ Arduino - code for interfacing with the DHT11 and sending humidity and temperatu
 
 Raspberry Pi - code for taking humidity/temp data from arduino and posting to IoTHub
 
+Stream Analytics - SQL for ASA job
+
+
