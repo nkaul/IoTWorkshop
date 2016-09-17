@@ -1,11 +1,5 @@
 # IoTWorkshop
-Sample Code for IoT Workshop
 
-Arduino - code for interfacing with the DHT11 and sending humidity and temperature data, as well as taking commands to turn on or off LED
-
-Raspberry Pi - code for taking humidity/temp data from arduino and posting to IoTHub
-
-Stream Analytics - SQL for ASA job to push to PowerBI
-
+This repository contains code and lab manuals for an Azure IoT hands-on lab.  <<more detail to be added later>>
 
 
